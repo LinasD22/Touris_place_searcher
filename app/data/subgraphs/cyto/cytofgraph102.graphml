@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Justiniškės"/>
+<node id="Karoliniškės"/>
+<node id="Naujininkai"/>
+<node id="Šnipiškės"/>
+<node id="Lazdynai"/>
+<node id="Žvėrynas"/>
+<node id="Antakalnis"/>
+<node id="Viršuliškės"/>
+<node id="Naujamiestis, Vilnius"/>
+<node id="Žirmūnai"/>
+<node id="Verkiai"/>
+<edge source="Justiniškės" target="Lazdynai"/>
+<edge source="Justiniškės" target="Karoliniškės"/>
+<edge source="Justiniškės" target="Viršuliškės"/>
+<edge source="Justiniškės" target="Naujininkai"/>
+<edge source="Justiniškės" target="Šnipiškės"/>
+<edge source="Justiniškės" target="Naujamiestis, Vilnius"/>
+<edge source="Karoliniškės" target="Naujininkai"/>
+<edge source="Karoliniškės" target="Verkiai"/>
+<edge source="Naujininkai" target="Lazdynai"/>
+<edge source="Naujininkai" target="Žirmūnai"/>
+<edge source="Naujininkai" target="Šnipiškės"/>
+<edge source="Šnipiškės" target="Žvėrynas"/>
+<edge source="Šnipiškės" target="Viršuliškės"/>
+<edge source="Žvėrynas" target="Viršuliškės"/>
+<edge source="Antakalnis" target="Viršuliškės"/>
+<edge source="Viršuliškės" target="Žirmūnai"/>
+</graph></graphml>

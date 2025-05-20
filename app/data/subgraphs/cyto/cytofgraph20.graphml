@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Daguerre Memorial"/>
+<node id="Fulcrum (sculpture)"/>
+<node id="Hommage à Charlie Parker"/>
+<node id="Harmonie (Volti)"/>
+<node id="Statue of John Witherspoon"/>
+<node id="Are Years What? (for Marianne Moore)"/>
+<node id="Statue of Trajan, Tower Hill"/>
+<node id="Statue of Benjamin Franklin (Washington, D.C.)"/>
+<node id="Statue of Nathan Hale (Washington, D.C.)"/>
+<node id="Acacia Griffins"/>
+<node id="L'Homme_aux_semelles_devant"/>
+<node id="Statue of Paddington Bear"/>
+<node id="Don Quixote (Kennedy Center sculpture)"/>
+<node id="Statue of Edmund Burke (Washington, D.C.)"/>
+<node id="Seated Woman on a Bench"/>
+<node id="Colosse (Mitoraj)"/>
+<node id="Figure for Landscape"/>
+<node id="Daniel Webster Memorial"/>
+<node id="Lunar Bird"/>
+<node id="Newton (Paolozzi)"/>
+<node id="Equestrian statue of George B. McClellan"/>
+<node id="Helios (statue)"/>
+<node id="The Arch 1979–1980"/>
+<node id="L'Accueillant"/>
+<node id="Samuel Hahnemann Monument"/>
+<node id="For Gordon Bunshaft"/>
+<node id="Luther Monument (Washington, D.C.)"/>
+<node id="Gwenfritz"/>
+<node id="Man Controlling Trade"/>
+<node id="Statue of John Aaron Rawlins"/>
+<node id="Statue of Earl Mountbatten, London"/>
+<node id="Clamdigger (de Kooning)"/>
+<node id="Cubi XI"/>
+<node id="Statue of Olive Risley Seward"/>
+<node id="The London Bridge Experience"/>
+<node id="Eros, Inside Eros"/>
+<node id="Horse and Rider (Marini)"/>
+<node id="Monumental Head"/>
+<node id="Serenity (Clara)"/>
+<node id="Statue of Bobby Moore"/>
+<node id="Equestrian statue of Joan of Arc (Washington, D.C.)"/>
+<node id="The Barbican Muse"/>
+<node id="The Meeting Place (sculpture)"/>
+<node id="The Great Warrior of Montauban"/>
+<node id="Infinity (de Rivera)"/>
+<node id="Statue of Joseph Henry"/>
+<node id="The Horses of Helios"/>
+<node id="Nymph (Central Figure for &quot;The Three Graces&quot;)"/>
+<node id="Horizons suspendus"/>
+<node id="Monsoon Drift"/>
+<node id="Alexander Dallas Bache Monument"/>
+<node id="Voltri XV"/>
+<node id="Pittsburgh Landscape"/>
+<node id="Brushstroke"/>
+<node id="Equestrian statue of George Henry Thomas"/>
+<node id="From Boullée to Eternity"/>
+<node id="Seated Yucatan Woman"/>
+<node id="Fontaine Louvois"/>
+<node id="The Drummer (Flanagan)"/>
+<node id="Canova Lions"/>
+<node id="Ikaria (La Défense)"/>
+<node id="Cubi XII"/>
+<node id="Equestrian statue of Winfield Scott"/>
+<node id="John F. Kennedy Memorial, London"/>
+<node id="La Bicyclette ensevelie"/>
+<node id="Statue of Winston Churchill (Washington, D.C.)"/>
+<node id="La Danse de la fontaine émergente"/>
+<node id="Silver Jubilee Crystal Crown"/>
+<edge source="Daguerre Memorial" target="La Danse de la fontaine émergente"/>
+<edge source="Daguerre Memorial" target="Fontaine Louvois"/>
+<edge source="Daguerre Memorial" target="Statue of Paddington Bear"/>
+<edge source="Daguerre Memorial" target="Infinity (de Rivera)"/>
+<edge source="Daguerre Memorial" target="Man Controlling Trade"/>
+<edge source="Daguerre Memorial" target="Luther Monument (Washington, D.C.)"/>
+<edge source="Daguerre Memorial" target="Cubi XI"/>
+<edge source="Daguerre Memorial" target="Statue of Joseph Henry"/>
+<edge source="Daguerre Memorial" target="Canova Lions"/>
+<edge source="Daguerre Memorial" target="Clamdigger (de Kooning)"/>
+<edge source="Daguerre Memorial" target="The Drummer (Flanagan)"/>
+<edge source="Daguerre Memorial" target="Eros, Inside Eros"/>
+<edge source="Daguerre Memorial" target="Seated Yucatan Woman"/>
+<edge source="Daguerre Memorial" target="Lunar Bird"/>
+<edge source="Daguerre Memorial" target="For Gordon Bunshaft"/>
+<edge source="Daguerre Memorial" target="Monsoon Drift"/>
+<edge source="Daguerre Memorial" target="Are Years What? (for Marianne Moore)"/>
+<edge source="Fulcrum (sculpture)" target="Silver Jubilee Crystal Crown"/>
+<edge source="Fulcrum (sculpture)" target="Statue of Paddington Bear"/>
+<edge source="Hommage à Charlie Parker" target="La Danse de la fontaine émergente"/>
+<edge source="Hommage à Charlie Parker" target="Harmonie (Volti)"/>
+<edge source="Hommage à Charlie Parker" target="Colosse (Mitoraj)"/>
+<edge source="Hommage à Charlie Parker" target="L'Accueillant"/>
+<edge source="Hommage à Charlie Parker" target="L'Homme_aux_semelles_devant"/>
+<edge source="Hommage à Charlie Parker" target="From Boullée to Eternity"/>
+<edge source="Hommage à Charlie Parker" target="Horizons suspendus"/>
+<edge source="Hommage à Charlie Parker" target="Statue of John Witherspoon"/>
+<edge source="Harmonie (Volti)" target="Ikaria (La Défense)"/>
+<edge source="Harmonie (Volti)" target="L'Homme_aux_semelles_devant"/>
+<edge source="Harmonie (Volti)" target="From Boullée to Eternity"/>
+<edge source="Harmonie (Volti)" target="Horizons suspendus"/>
+<edge source="Harmonie (Volti)" target="Silver Jubilee Crystal Crown"/>
+<edge source="Statue of John Witherspoon" target="L'Homme_aux_semelles_devant"/>
+<edge source="Statue of John Witherspoon" target="Lunar Bird"/>
+<edge source="Are Years What? (for Marianne Moore)" target="La Danse de la fontaine émergente"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Fontaine Louvois"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Infinity (de Rivera)"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Man Controlling Trade"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Luther Monument (Washington, D.C.)"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Cubi XI"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Statue of Joseph Henry"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Canova Lions"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Clamdigger (de Kooning)"/>
+<edge source="Are Years What? (for Marianne Moore)" target="The Drummer (Flanagan)"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Eros, Inside Eros"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Seated Yucatan Woman"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Lunar Bird"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Cubi XII"/>
+<edge source="Are Years What? (for Marianne Moore)" target="For Gordon Bunshaft"/>
+<edge source="Are Years What? (for Marianne Moore)" target="Monsoon Drift"/>
+<edge source="Statue of Trajan, Tower Hill" target="Statue of Earl Mountbatten, London"/>
+<edge source="Statue of Trajan, Tower Hill" target="The Barbican Muse"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Equestrian statue of Winfield Scott"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Equestrian statue of George Henry Thomas"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Statue of Edmund Burke (Washington, D.C.)"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Man Controlling Trade"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Statue of Nathan Hale (Washington, D.C.)"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Luther Monument (Washington, D.C.)"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Equestrian statue of George B. McClellan"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Statue of Joseph Henry"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Statue of John Aaron Rawlins"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Don Quixote (Kennedy Center sculpture)"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Canova Lions"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Statue of Olive Risley Seward"/>
+<edge source="Statue of Benjamin Franklin (Washington, D.C.)" target="Lunar Bird"/>
+<edge source="Statue of Nathan Hale (Washington, D.C.)" target="Equestrian statue of Winfield Scott"/>
+<edge source="Statue of Nathan Hale (Washington, D.C.)" target="Samuel Hahnemann Monument"/>
+<edge source="Statue of Nathan Hale (Washington, D.C.)" target="Equestrian statue of George Henry Thomas"/>
+<edge source="Statue of Nathan Hale (Washington, D.C.)" target="Statue of Edmund Burke (Washington, D.C.)"/>
+<edge source="Statue of Nathan Hale (Washington, D.C.)" target="Man Controlling Trade"/>
+<edge source="Statue of Nathan Hale (Washington, D.C.)" target="Luther Monument (Washington, D.C.)"/>
+<edge source="Statue of Nathan Hale (Washington, D.C.)" target="Statue of Joseph Henry"/>
+<edge source="Statue of Nathan Hale (Washington, D.C.)" target="Statue of John Aaron Rawlins"/>
+<edge source="Statue of Nathan Hale (Washington, D.C.)" target="Canova Lions"/>
+<edge source="Statue of Nathan Hale (Washington, D.C.)" target="Statue of Olive Risley Seward"/>
+<edge source="Statue of Nathan Hale (Washington, D.C.)" target="Lunar Bird"/>
+<edge source="Acacia Griffins" target="Man Controlling Trade"/>
+<edge source="Acacia Griffins" target="Luther Monument (Washington, D.C.)"/>
+<edge source="Acacia Griffins" target="Cubi XI"/>
+<edge source="Acacia Griffins" target="Canova Lions"/>
+<edge source="Acacia Griffins" target="Clamdigger (de Kooning)"/>
+<edge source="Acacia Griffins" target="The Drummer (Flanagan)"/>
+<edge source="Acacia Griffins" target="Eros, Inside Eros"/>
+<edge source="Acacia Griffins" target="Seated Yucatan Woman"/>
+<edge source="Acacia Griffins" target="Statue of Olive Risley Seward"/>
+<edge source="Acacia Griffins" target="For Gordon Bunshaft"/>
+<edge source="L'Homme_aux_semelles_devant" target="Ikaria (La Défense)"/>
+<edge source="L'Homme_aux_semelles_devant" target="Colosse (Mitoraj)"/>
+<edge source="L'Homme_aux_semelles_devant" target="L'Accueillant"/>
+<edge source="L'Homme_aux_semelles_devant" target="From Boullée to Eternity"/>
+<edge source="L'Homme_aux_semelles_devant" target="Horizons suspendus"/>
+<edge source="L'Homme_aux_semelles_devant" target="Clamdigger (de Kooning)"/>
+<edge source="L'Homme_aux_semelles_devant" target="The Drummer (Flanagan)"/>
+<edge source="L'Homme_aux_semelles_devant" target="Eros, Inside Eros"/>
+<edge source="L'Homme_aux_semelles_devant" target="Seated Yucatan Woman"/>
+<edge source="L'Homme_aux_semelles_devant" target="For Gordon Bunshaft"/>
+<edge source="Statue of Paddington Bear" target="La Bicyclette ensevelie"/>
+<edge source="Statue of Paddington Bear" target="Statue of Earl Mountbatten, London"/>
+<edge source="Statue of Paddington Bear" target="The Horses of Helios"/>
+<edge source="Statue of Paddington Bear" target="The Arch 1979–1980"/>
+<edge source="Statue of Paddington Bear" target="Silver Jubilee Crystal Crown"/>
+<edge source="Statue of Paddington Bear" target="Newton (Paolozzi)"/>
+<edge source="Statue of Paddington Bear" target="The Meeting Place (sculpture)"/>
+<edge source="Statue of Paddington Bear" target="The Barbican Muse"/>
+<edge source="Statue of Paddington Bear" target="Statue of Joseph Henry"/>
+<edge source="Don Quixote (Kennedy Center sculpture)" target="Infinity (de Rivera)"/>
+<edge source="Don Quixote (Kennedy Center sculpture)" target="Statue of Edmund Burke (Washington, D.C.)"/>
+<edge source="Don Quixote (Kennedy Center sculpture)" target="Luther Monument (Washington, D.C.)"/>
+<edge source="Don Quixote (Kennedy Center sculpture)" target="Equestrian statue of Joan of Arc (Washington, D.C.)"/>
+<edge source="Don Quixote (Kennedy Center sculpture)" target="Statue of Winston Churchill (Washington, D.C.)"/>
+<edge source="Don Quixote (Kennedy Center sculpture)" target="Canova Lions"/>
+<edge source="Don Quixote (Kennedy Center sculpture)" target="Statue of Olive Risley Seward"/>
+<edge source="Statue of Edmund Burke (Washington, D.C.)" target="Equestrian statue of Winfield Scott"/>
+<edge source="Statue of Edmund Burke (Washington, D.C.)" target="Equestrian statue of George Henry Thomas"/>
+<edge source="Statue of Edmund Burke (Washington, D.C.)" target="Man Controlling Trade"/>
+<edge source="Statue of Edmund Burke (Washington, D.C.)" target="Luther Monument (Washington, D.C.)"/>
+<edge source="Statue of Edmund Burke (Washington, D.C.)" target="Statue of Joseph Henry"/>
+<edge source="Statue of Edmund Burke (Washington, D.C.)" target="Statue of John Aaron Rawlins"/>
+<edge source="Statue of Edmund Burke (Washington, D.C.)" target="Canova Lions"/>
+<edge source="Statue of Edmund Burke (Washington, D.C.)" target="Statue of Olive Risley Seward"/>
+<edge source="Statue of Edmund Burke (Washington, D.C.)" target="Lunar Bird"/>
+<edge source="Seated Woman on a Bench" target="Voltri XV"/>
+<edge source="Seated Woman on a Bench" target="Pittsburgh Landscape"/>
+<edge source="Colosse (Mitoraj)" target="Ikaria (La Défense)"/>
+<edge source="Colosse (Mitoraj)" target="L'Accueillant"/>
+<edge source="Colosse (Mitoraj)" target="From Boullée to Eternity"/>
+<edge source="Colosse (Mitoraj)" target="Silver Jubilee Crystal Crown"/>
+<edge source="Colosse (Mitoraj)" target="Cubi XI"/>
+<edge source="Colosse (Mitoraj)" target="Clamdigger (de Kooning)"/>
+<edge source="Colosse (Mitoraj)" target="The Drummer (Flanagan)"/>
+<edge source="Colosse (Mitoraj)" target="Eros, Inside Eros"/>
+<edge source="Colosse (Mitoraj)" target="Seated Yucatan Woman"/>
+<edge source="Colosse (Mitoraj)" target="For Gordon Bunshaft"/>
+<edge source="Colosse (Mitoraj)" target="Monsoon Drift"/>
+<edge source="Figure for Landscape" target="Infinity (de Rivera)"/>
+<edge source="Figure for Landscape" target="The Great Warrior of Montauban"/>
+<edge source="Figure for Landscape" target="Voltri XV"/>
+<edge source="Figure for Landscape" target="Pittsburgh Landscape"/>
+<edge source="Figure for Landscape" target="Monsoon Drift"/>
+<edge source="Daniel Webster Memorial" target="Samuel Hahnemann Monument"/>
+<edge source="Daniel Webster Memorial" target="Luther Monument (Washington, D.C.)"/>
+<edge source="Lunar Bird" target="La Danse de la fontaine émergente"/>
+<edge source="Lunar Bird" target="Fontaine Louvois"/>
+<edge source="Lunar Bird" target="Infinity (de Rivera)"/>
+<edge source="Lunar Bird" target="Man Controlling Trade"/>
+<edge source="Lunar Bird" target="Luther Monument (Washington, D.C.)"/>
+<edge source="Lunar Bird" target="Cubi XI"/>
+<edge source="Lunar Bird" target="Statue of Joseph Henry"/>
+<edge source="Lunar Bird" target="Statue of John Aaron Rawlins"/>
+<edge source="Lunar Bird" target="Canova Lions"/>
+<edge source="Lunar Bird" target="Clamdigger (de Kooning)"/>
+<edge source="Lunar Bird" target="The Drummer (Flanagan)"/>
+<edge source="Lunar Bird" target="Eros, Inside Eros"/>
+<edge source="Lunar Bird" target="Seated Yucatan Woman"/>
+<edge source="Lunar Bird" target="For Gordon Bunshaft"/>
+<edge source="Lunar Bird" target="Monsoon Drift"/>
+<edge source="Newton (Paolozzi)" target="Silver Jubilee Crystal Crown"/>
+<edge source="Newton (Paolozzi)" target="The Barbican Muse"/>
+<edge source="Equestrian statue of George B. McClellan" target="Equestrian statue of Winfield Scott"/>
+<edge source="Equestrian statue of George B. McClellan" target="Statue of John Aaron Rawlins"/>
+<edge source="Equestrian statue of George B. McClellan" target="Nymph (Central Figure for &quot;The Three Graces&quot;)"/>
+<edge source="Helios (statue)" target="The Arch 1979–1980"/>
+<edge source="L'Accueillant" target="Ikaria (La Défense)"/>
+<edge source="L'Accueillant" target="From Boullée to Eternity"/>
+<edge source="L'Accueillant" target="Silver Jubilee Crystal Crown"/>
+<edge source="L'Accueillant" target="Cubi XI"/>
+<edge source="L'Accueillant" target="Clamdigger (de Kooning)"/>
+<edge source="L'Accueillant" target="The Drummer (Flanagan)"/>
+<edge source="L'Accueillant" target="Eros, Inside Eros"/>
+<edge source="L'Accueillant" target="Seated Yucatan Woman"/>
+<edge source="L'Accueillant" target="For Gordon Bunshaft"/>
+<edge source="L'Accueillant" target="Monsoon Drift"/>
+<edge source="Samuel Hahnemann Monument" target="Equestrian statue of George Henry Thomas"/>
+<edge source="Samuel Hahnemann Monument" target="Man Controlling Trade"/>
+<edge source="Samuel Hahnemann Monument" target="Luther Monument (Washington, D.C.)"/>
+<edge source="Samuel Hahnemann Monument" target="Statue of John Aaron Rawlins"/>
+<edge source="Samuel Hahnemann Monument" target="Canova Lions"/>
+<edge source="For Gordon Bunshaft" target="Ikaria (La Défense)"/>
+<edge source="For Gordon Bunshaft" target="Infinity (de Rivera)"/>
+<edge source="For Gordon Bunshaft" target="Luther Monument (Washington, D.C.)"/>
+<edge source="For Gordon Bunshaft" target="Cubi XI"/>
+<edge source="For Gordon Bunshaft" target="Statue of Joseph Henry"/>
+<edge source="For Gordon Bunshaft" target="Clamdigger (de Kooning)"/>
+<edge source="For Gordon Bunshaft" target="Horse and Rider (Marini)"/>
+<edge source="For Gordon Bunshaft" target="The Drummer (Flanagan)"/>
+<edge source="For Gordon Bunshaft" target="Eros, Inside Eros"/>
+<edge source="For Gordon Bunshaft" target="Voltri XV"/>
+<edge source="For Gordon Bunshaft" target="Seated Yucatan Woman"/>
+<edge source="For Gordon Bunshaft" target="Pittsburgh Landscape"/>
+<edge source="For Gordon Bunshaft" target="Cubi XII"/>
+<edge source="For Gordon Bunshaft" target="Monsoon Drift"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Fontaine Louvois"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Equestrian statue of Winfield Scott"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Equestrian statue of George Henry Thomas"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Infinity (de Rivera)"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Man Controlling Trade"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Serenity (Clara)"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Cubi XI"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Statue of Joseph Henry"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Statue of John Aaron Rawlins"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Canova Lions"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Clamdigger (de Kooning)"/>
+<edge source="Luther Monument (Washington, D.C.)" target="The Drummer (Flanagan)"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Eros, Inside Eros"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Seated Yucatan Woman"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Statue of Olive Risley Seward"/>
+<edge source="Luther Monument (Washington, D.C.)" target="Monsoon Drift"/>
+<edge source="Gwenfritz" target="Cubi XII"/>
+<edge source="Man Controlling Trade" target="La Danse de la fontaine émergente"/>
+<edge source="Man Controlling Trade" target="Equestrian statue of Joan of Arc (Washington, D.C.)"/>
+<edge source="Man Controlling Trade" target="Serenity (Clara)"/>
+<edge source="Man Controlling Trade" target="Cubi XI"/>
+<edge source="Man Controlling Trade" target="Statue of Joseph Henry"/>
+<edge source="Man Controlling Trade" target="Canova Lions"/>
+<edge source="Man Controlling Trade" target="Statue of Olive Risley Seward"/>
+<edge source="Man Controlling Trade" target="Monsoon Drift"/>
+<edge source="Statue of John Aaron Rawlins" target="John F. Kennedy Memorial, London"/>
+<edge source="Statue of John Aaron Rawlins" target="Equestrian statue of Winfield Scott"/>
+<edge source="Statue of John Aaron Rawlins" target="Equestrian statue of George Henry Thomas"/>
+<edge source="Statue of John Aaron Rawlins" target="Statue of Joseph Henry"/>
+<edge source="Statue of Earl Mountbatten, London" target="Silver Jubilee Crystal Crown"/>
+<edge source="Statue of Earl Mountbatten, London" target="Statue of Bobby Moore"/>
+<edge source="Statue of Earl Mountbatten, London" target="The Barbican Muse"/>
+<edge source="Statue of Earl Mountbatten, London" target="John F. Kennedy Memorial, London"/>
+<edge source="Statue of Earl Mountbatten, London" target="Statue of Joseph Henry"/>
+<edge source="Clamdigger (de Kooning)" target="Ikaria (La Défense)"/>
+<edge source="Clamdigger (de Kooning)" target="Infinity (de Rivera)"/>
+<edge source="Clamdigger (de Kooning)" target="Cubi XI"/>
+<edge source="Clamdigger (de Kooning)" target="Statue of Joseph Henry"/>
+<edge source="Clamdigger (de Kooning)" target="Horse and Rider (Marini)"/>
+<edge source="Clamdigger (de Kooning)" target="The Drummer (Flanagan)"/>
+<edge source="Clamdigger (de Kooning)" target="Eros, Inside Eros"/>
+<edge source="Clamdigger (de Kooning)" target="Voltri XV"/>
+<edge source="Clamdigger (de Kooning)" target="Seated Yucatan Woman"/>
+<edge source="Clamdigger (de Kooning)" target="Pittsburgh Landscape"/>
+<edge source="Clamdigger (de Kooning)" target="Cubi XII"/>
+<edge source="Clamdigger (de Kooning)" target="Monsoon Drift"/>
+<edge source="Cubi XI" target="Infinity (de Rivera)"/>
+<edge source="Cubi XI" target="Statue of Joseph Henry"/>
+<edge source="Cubi XI" target="Canova Lions"/>
+<edge source="Cubi XI" target="Horse and Rider (Marini)"/>
+<edge source="Cubi XI" target="The Drummer (Flanagan)"/>
+<edge source="Cubi XI" target="Eros, Inside Eros"/>
+<edge source="Cubi XI" target="Seated Yucatan Woman"/>
+<edge source="Cubi XI" target="Statue of Olive Risley Seward"/>
+<edge source="Cubi XI" target="Pittsburgh Landscape"/>
+<edge source="Cubi XI" target="Cubi XII"/>
+<edge source="Cubi XI" target="Monsoon Drift"/>
+<edge source="Statue of Olive Risley Seward" target="Statue of Joseph Henry"/>
+<edge source="Statue of Olive Risley Seward" target="Canova Lions"/>
+<edge source="Statue of Olive Risley Seward" target="Monsoon Drift"/>
+<edge source="The London Bridge Experience" target="Alexander Dallas Bache Monument"/>
+<edge source="Eros, Inside Eros" target="Ikaria (La Défense)"/>
+<edge source="Eros, Inside Eros" target="Infinity (de Rivera)"/>
+<edge source="Eros, Inside Eros" target="Statue of Joseph Henry"/>
+<edge source="Eros, Inside Eros" target="Horse and Rider (Marini)"/>
+<edge source="Eros, Inside Eros" target="The Drummer (Flanagan)"/>
+<edge source="Eros, Inside Eros" target="Voltri XV"/>
+<edge source="Eros, Inside Eros" target="Seated Yucatan Woman"/>
+<edge source="Eros, Inside Eros" target="Pittsburgh Landscape"/>
+<edge source="Eros, Inside Eros" target="Cubi XII"/>
+<edge source="Eros, Inside Eros" target="Monsoon Drift"/>
+<edge source="Horse and Rider (Marini)" target="Infinity (de Rivera)"/>
+<edge source="Horse and Rider (Marini)" target="Statue of Joseph Henry"/>
+<edge source="Horse and Rider (Marini)" target="The Drummer (Flanagan)"/>
+<edge source="Horse and Rider (Marini)" target="Seated Yucatan Woman"/>
+<edge source="Horse and Rider (Marini)" target="Cubi XII"/>
+<edge source="Horse and Rider (Marini)" target="Monsoon Drift"/>
+<edge source="Monumental Head" target="Pittsburgh Landscape"/>
+<edge source="Serenity (Clara)" target="Equestrian statue of Joan of Arc (Washington, D.C.)"/>
+<edge source="Serenity (Clara)" target="Canova Lions"/>
+<edge source="Statue of Bobby Moore" target="The Barbican Muse"/>
+<edge source="Equestrian statue of Joan of Arc (Washington, D.C.)" target="Equestrian statue of Winfield Scott"/>
+<edge source="Equestrian statue of Joan of Arc (Washington, D.C.)" target="Canova Lions"/>
+<edge source="The Barbican Muse" target="Silver Jubilee Crystal Crown"/>
+<edge source="The Barbican Muse" target="John F. Kennedy Memorial, London"/>
+<edge source="The Barbican Muse" target="Statue of Joseph Henry"/>
+<edge source="The Great Warrior of Montauban" target="Nymph (Central Figure for &quot;The Three Graces&quot;)"/>
+<edge source="Infinity (de Rivera)" target="Statue of Joseph Henry"/>
+<edge source="Infinity (de Rivera)" target="Canova Lions"/>
+<edge source="Infinity (de Rivera)" target="The Drummer (Flanagan)"/>
+<edge source="Infinity (de Rivera)" target="Seated Yucatan Woman"/>
+<edge source="Infinity (de Rivera)" target="Cubi XII"/>
+<edge source="Infinity (de Rivera)" target="Monsoon Drift"/>
+<edge source="Statue of Joseph Henry" target="La Danse de la fontaine émergente"/>
+<edge source="Statue of Joseph Henry" target="Fontaine Louvois"/>
+<edge source="Statue of Joseph Henry" target="Canova Lions"/>
+<edge source="Statue of Joseph Henry" target="The Drummer (Flanagan)"/>
+<edge source="Statue of Joseph Henry" target="Seated Yucatan Woman"/>
+<edge source="Statue of Joseph Henry" target="Monsoon Drift"/>
+<edge source="Horizons suspendus" target="Ikaria (La Défense)"/>
+<edge source="Horizons suspendus" target="From Boullée to Eternity"/>
+<edge source="Monsoon Drift" target="La Danse de la fontaine émergente"/>
+<edge source="Monsoon Drift" target="Fontaine Louvois"/>
+<edge source="Monsoon Drift" target="Canova Lions"/>
+<edge source="Monsoon Drift" target="The Drummer (Flanagan)"/>
+<edge source="Monsoon Drift" target="Seated Yucatan Woman"/>
+<edge source="Monsoon Drift" target="Pittsburgh Landscape"/>
+<edge source="Monsoon Drift" target="Cubi XII"/>
+<edge source="Monsoon Drift" target="Alexander Dallas Bache Monument"/>
+<edge source="Voltri XV" target="The Drummer (Flanagan)"/>
+<edge source="Voltri XV" target="Seated Yucatan Woman"/>
+<edge source="Voltri XV" target="Pittsburgh Landscape"/>
+<edge source="Pittsburgh Landscape" target="The Drummer (Flanagan)"/>
+<edge source="Pittsburgh Landscape" target="Seated Yucatan Woman"/>
+<edge source="Brushstroke" target="Cubi XII"/>
+<edge source="Equestrian statue of George Henry Thomas" target="Equestrian statue of Winfield Scott"/>
+<edge source="From Boullée to Eternity" target="Ikaria (La Défense)"/>
+<edge source="From Boullée to Eternity" target="Cubi XII"/>
+<edge source="Seated Yucatan Woman" target="Ikaria (La Défense)"/>
+<edge source="Seated Yucatan Woman" target="The Drummer (Flanagan)"/>
+<edge source="Seated Yucatan Woman" target="Cubi XII"/>
+<edge source="Fontaine Louvois" target="La Danse de la fontaine émergente"/>
+<edge source="The Drummer (Flanagan)" target="Ikaria (La Défense)"/>
+<edge source="The Drummer (Flanagan)" target="Cubi XII"/>
+<edge source="Canova Lions" target="Equestrian statue of Winfield Scott"/>
+<edge source="Ikaria (La Défense)" target="Silver Jubilee Crystal Crown"/>
+</graph></graphml>

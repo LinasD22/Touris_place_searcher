@@ -1,0 +1,1540 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="width" attr.type="long"/>
+<key id="d0" for="node" attr.name="size" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Žemieji Paneriai">
+  <data key="d0">10</data>
+</node>
+<node id="Didžioji Riešė">
+  <data key="d0">10</data>
+</node>
+<node id="Kulokiškės (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Aukštasis Pavilnys">
+  <data key="d0">10</data>
+</node>
+<node id="Dvarykščiai (Pilaitė)">
+  <data key="d0">10</data>
+</node>
+<node id="Jeruzalė">
+  <data key="d0">10</data>
+</node>
+<node id="Galgiai">
+  <data key="d0">10</data>
+</node>
+<node id="Gineitiškės">
+  <data key="d0">10</data>
+</node>
+<node id="Sudervė">
+  <data key="d0">10</data>
+</node>
+<node id="Bukiškis">
+  <data key="d0">10</data>
+</node>
+<node id="Visoriai">
+  <data key="d0">10</data>
+</node>
+<node id="Lazdynėliai (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Baltupiai">
+  <data key="d0">10</data>
+</node>
+<node id="Didieji Gulbinai">
+  <data key="d0">10</data>
+</node>
+<node id="Mikališkės">
+  <data key="d0">10</data>
+</node>
+<node id="Kairėnai">
+  <data key="d0">10</data>
+</node>
+<node id="Gilužiai (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Balsiai (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Gariūnai">
+  <data key="d0">10</data>
+</node>
+<node id="Naujieji Verkiai">
+  <data key="d0">10</data>
+</node>
+<node id="Markučiai">
+  <data key="d0">10</data>
+</node>
+<node id="Naujasis Lentvaris">
+  <data key="d0">10</data>
+</node>
+<node id="Vaidotai (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Santariškės">
+  <data key="d0">10</data>
+</node>
+<node id="Jarmališkės (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Pilaitė">
+  <data key="d0">10</data>
+</node>
+<node id="Mūrinė Vokė">
+  <data key="d0">10</data>
+</node>
+<node id="Vaidegiai">
+  <data key="d0">10</data>
+</node>
+<node id="Babiniai">
+  <data key="d0">10</data>
+</node>
+<node id="Robinier du square René-Viviani">
+  <data key="d0">10</data>
+</node>
+<node id="Avižieniai">
+  <data key="d0">10</data>
+</node>
+<node id="Pagiriai (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Salininkai">
+  <data key="d0">10</data>
+</node>
+<node id="Fabijoniškės">
+  <data key="d0">10</data>
+</node>
+<node id="Bajorai (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Mažieji Gulbinai">
+  <data key="d0">10</data>
+</node>
+<node id="Pašilaičiai">
+  <data key="d0">10</data>
+</node>
+<node id="Liudvinavas (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Zujūnai">
+  <data key="d0">10</data>
+</node>
+<node id="Bukčiai">
+  <data key="d0">10</data>
+</node>
+<node id="Žemasis Pavilnys">
+  <data key="d0">10</data>
+</node>
+<node id="Bališkės">
+  <data key="d0">10</data>
+</node>
+<node id="Trakų Vokė">
+  <data key="d0">10</data>
+</node>
+<node id="Klevinė">
+  <data key="d0">10</data>
+</node>
+<node id="Riešė">
+  <data key="d0">10</data>
+</node>
+<node id="Kryžiokai">
+  <data key="d0">10</data>
+</node>
+<node id="Daniliškės (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Burbiškės (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Kalviškės">
+  <data key="d0">10</data>
+</node>
+<node id="Verkių Riešė">
+  <data key="d0">10</data>
+</node>
+<node id="Ožkiniai (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Kirtimai">
+  <data key="d0">10</data>
+</node>
+<node id="Turniškės">
+  <data key="d0">10</data>
+</node>
+<node id="Gureliai (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<node id="Valakampiai">
+  <data key="d0">10</data>
+</node>
+<node id="Tarandė">
+  <data key="d0">10</data>
+</node>
+<node id="Brinkiškės">
+  <data key="d0">10</data>
+</node>
+<node id="Mačiuliškės (Vilnius)">
+  <data key="d0">10</data>
+</node>
+<edge source="Žemieji Paneriai" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Lazdynėliai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Baltupiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Balsiai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Kairėnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Bukčiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Mūrinė Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Aukštasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Naujieji Verkiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Visoriai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemieji Paneriai" target="Bajorai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didžioji Riešė" target="Zujūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didžioji Riešė" target="Sudervė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didžioji Riešė" target="Pagiriai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Bališkės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Kalviškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Jarmališkės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Mikališkės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Vaidegiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Brinkiškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Gilužiai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Gariūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kulokiškės (Vilnius)" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Lazdynėliai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Fabijoniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Bukčiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Dvarykščiai (Pilaitė)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Mūrinė Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Gariūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Naujieji Verkiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Verkių Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Vaidotai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Daniliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Visoriai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Aukštasis Pavilnys" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dvarykščiai (Pilaitė)" target="Fabijoniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dvarykščiai (Pilaitė)" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dvarykščiai (Pilaitė)" target="Verkių Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dvarykščiai (Pilaitė)" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dvarykščiai (Pilaitė)" target="Vaidotai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dvarykščiai (Pilaitė)" target="Daniliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Dvarykščiai (Pilaitė)" target="Bajorai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Baltupiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Balsiai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Galgiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Kairėnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Gineitiškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Gariūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Didieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jeruzalė" target="Bukiškis">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Naujasis Lentvaris">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Baltupiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Santariškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Zujūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Salininkai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Balsiai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Kairėnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Avižieniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Gineitiškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Gariūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Didieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Galgiai" target="Bukiškis">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Naujasis Lentvaris">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Baltupiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Santariškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Zujūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Salininkai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Balsiai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Kairėnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Avižieniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Gariūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Didieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gineitiškės" target="Bukiškis">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sudervė" target="Zujūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Sudervė" target="Pagiriai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Naujasis Lentvaris">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Baltupiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Santariškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Zujūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Salininkai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Balsiai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Kairėnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Avižieniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Gariūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Didieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukiškis" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Visoriai" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Visoriai" target="Lazdynėliai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Visoriai" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Visoriai" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Visoriai" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Visoriai" target="Bukčiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Visoriai" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Visoriai" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Visoriai" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Visoriai" target="Bajorai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lazdynėliai (Vilnius)" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lazdynėliai (Vilnius)" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lazdynėliai (Vilnius)" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lazdynėliai (Vilnius)" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lazdynėliai (Vilnius)" target="Bukčiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lazdynėliai (Vilnius)" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lazdynėliai (Vilnius)" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lazdynėliai (Vilnius)" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Lazdynėliai (Vilnius)" target="Bajorai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Naujasis Lentvaris">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Pašilaičiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Zujūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Balsiai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Kairėnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Avižieniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Gariūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Didieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Baltupiai" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Naujasis Lentvaris">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Zujūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Salininkai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Balsiai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Kalviškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Kairėnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Avižieniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Mūrinė Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Jarmališkės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Mikališkės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Brinkiškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Gilužiai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Gariūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Naujieji Verkiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Didieji Gulbinai" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mikališkės" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mikališkės" target="Bališkės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mikališkės" target="Kalviškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mikališkės" target="Jarmališkės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mikališkės" target="Vaidegiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mikališkės" target="Brinkiškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mikališkės" target="Gilužiai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mikališkės" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Naujasis Lentvaris">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Pašilaičiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Zujūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Balsiai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Avižieniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Gariūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kairėnai" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gilužiai (Vilnius)" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gilužiai (Vilnius)" target="Bališkės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gilužiai (Vilnius)" target="Kalviškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gilužiai (Vilnius)" target="Jarmališkės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gilužiai (Vilnius)" target="Vaidegiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gilužiai (Vilnius)" target="Brinkiškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gilužiai (Vilnius)" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Naujasis Lentvaris">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Pašilaičiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Zujūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Avižieniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Gariūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Balsiai (Vilnius)" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Naujasis Lentvaris">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Bališkės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Salininkai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Vaidegiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Markučiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Gariūnai" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujieji Verkiai" target="Liudvinavas (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujieji Verkiai" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujieji Verkiai" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujieji Verkiai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujieji Verkiai" target="Mūrinė Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujieji Verkiai" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujieji Verkiai" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Pašilaičiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Bukčiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Markučiai" target="Bajorai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujasis Lentvaris" target="Salininkai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujasis Lentvaris" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujasis Lentvaris" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujasis Lentvaris" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujasis Lentvaris" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujasis Lentvaris" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujasis Lentvaris" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Naujasis Lentvaris" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidotai (Vilnius)" target="Fabijoniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidotai (Vilnius)" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidotai (Vilnius)" target="Verkių Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidotai (Vilnius)" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidotai (Vilnius)" target="Daniliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidotai (Vilnius)" target="Bajorai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jarmališkės (Vilnius)" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jarmališkės (Vilnius)" target="Bališkės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jarmališkės (Vilnius)" target="Kalviškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jarmališkės (Vilnius)" target="Vaidegiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jarmališkės (Vilnius)" target="Brinkiškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Jarmališkės (Vilnius)" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pilaitė" target="Pašilaičiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mūrinė Vokė" target="Liudvinavas (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mūrinė Vokė" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mūrinė Vokė" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mūrinė Vokė" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mūrinė Vokė" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mūrinė Vokė" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidegiai" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidegiai" target="Bališkės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidegiai" target="Kalviškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidegiai" target="Brinkiškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidegiai" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidegiai" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidegiai" target="Babiniai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Vaidegiai" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Robinier du square René-Viviani">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Bališkės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Salininkai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Babiniai" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Pašilaičiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Bukčiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Robinier du square René-Viviani" target="Bajorai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Avižieniai" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Avižieniai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Avižieniai" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Avižieniai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pagiriai (Vilnius)" target="Zujūnai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Salininkai" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Salininkai" target="Mažieji Gulbinai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fabijoniškės" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fabijoniškės" target="Verkių Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fabijoniškės" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fabijoniškės" target="Daniliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Fabijoniškės" target="Bajorai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bajorai (Vilnius)" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bajorai (Vilnius)" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bajorai (Vilnius)" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bajorai (Vilnius)" target="Bukčiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bajorai (Vilnius)" target="Verkių Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bajorai (Vilnius)" target="Daniliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mažieji Gulbinai" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mažieji Gulbinai" target="Bališkės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mažieji Gulbinai" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mažieji Gulbinai" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mažieji Gulbinai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mažieji Gulbinai" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mažieji Gulbinai" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mažieji Gulbinai" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mažieji Gulbinai" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Mažieji Gulbinai" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pašilaičiai" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pašilaičiai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Pašilaičiai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Liudvinavas (Vilnius)" target="Gureliai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Liudvinavas (Vilnius)" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Zujūnai" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Zujūnai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Zujūnai" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Zujūnai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukčiai" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukčiai" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukčiai" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukčiai" target="Žemasis Pavilnys">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bukčiai" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemasis Pavilnys" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemasis Pavilnys" target="Trakų Vokė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemasis Pavilnys" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemasis Pavilnys" target="Verkių Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemasis Pavilnys" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemasis Pavilnys" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Žemasis Pavilnys" target="Daniliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bališkės" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bališkės" target="Kalviškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bališkės" target="Brinkiškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bališkės" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Bališkės" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trakų Vokė" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trakų Vokė" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trakų Vokė" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trakų Vokė" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trakų Vokė" target="Klevinė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trakų Vokė" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trakų Vokė" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Trakų Vokė" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klevinė" target="Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klevinė" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klevinė" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klevinė" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Klevinė" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Riešė" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Riešė" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Riešė" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Riešė" target="Kryžiokai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kryžiokai" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kryžiokai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kryžiokai" target="Burbiškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kryžiokai" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Daniliškės (Vilnius)" target="Verkių Riešė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Daniliškės (Vilnius)" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Burbiškės (Vilnius)" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Burbiškės (Vilnius)" target="Kalviškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Burbiškės (Vilnius)" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Burbiškės (Vilnius)" target="Brinkiškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kalviškės" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kalviškės" target="Brinkiškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Verkių Riešė" target="Ožkiniai (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ožkiniai (Vilnius)" target="Kirtimai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Ožkiniai (Vilnius)" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kirtimai" target="Valakampiai">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kirtimai" target="Turniškės">
+  <data key="d1">1</data>
+</edge>
+<edge source="Kirtimai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Turniškės" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Valakampiai" target="Tarandė">
+  <data key="d1">1</data>
+</edge>
+<edge source="Brinkiškės" target="Mačiuliškės (Vilnius)">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>

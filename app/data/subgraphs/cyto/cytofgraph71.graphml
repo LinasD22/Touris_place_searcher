@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Knife Edge Two Piece 1962–65"/>
+<node id="Upright Motive No. 1: Glenkiln Cross"/>
+<node id="Two-Piece Reclining Figure: Points"/>
+<edge source="Knife Edge Two Piece 1962–65" target="Upright Motive No. 1: Glenkiln Cross"/>
+<edge source="Knife Edge Two Piece 1962–65" target="Two-Piece Reclining Figure: Points"/>
+</graph></graphml>

@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Statue of Alfred the Great, Southwark"/>
+<node id="Statue of James II, Trafalgar Square"/>
+<node id="Statue of Charles II, Soho Square"/>
+<node id="Equestrian statue of the Duke of Cambridge"/>
+<node id="Memorial to the Great Exhibition"/>
+<node id="Statue of Robert Raikes, London"/>
+<node id="Richard Coeur de Lion (statue)"/>
+<node id="Edith Cavell Memorial"/>
+<node id="Golden Boy of Pye Corner"/>
+<node id="Statue of Queen Anne, Queen Anne's Gate"/>
+<node id="Debden House"/>
+<node id="Statue of Thomas Becket, London"/>
+<node id="Whittington Stone"/>
+<node id="John Heminges and Henry Condell Memorial"/>
+<node id="Statue of Henry Bartle Frere"/>
+<node id="Diana Fountain, Bushy Park"/>
+<node id="Equestrian statue of Ferdinand Foch, London"/>
+<node id="Statue of James Outram, London"/>
+<node id="Statue of Joshua Reynolds"/>
+<node id="Statue of Oliver Cromwell, Westminster"/>
+<node id="Statue of Edward Jenner, London"/>
+<node id="Statue of Hugh Myddelton, Islington Green"/>
+<node id="Statue of the Duke of Devonshire, Whitehall"/>
+<node id="Statue of George V, Westminster"/>
+<node id="Quintin and Alice Hogg Memorial"/>
+<node id="The Naked Ladies"/>
+<node id="Elfin Oak"/>
+<edge source="Statue of Alfred the Great, Southwark" target="Elfin Oak"/>
+<edge source="Statue of Alfred the Great, Southwark" target="Statue of Queen Anne, Queen Anne's Gate"/>
+<edge source="Statue of James II, Trafalgar Square" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="Statue of James II, Trafalgar Square" target="Memorial to the Great Exhibition"/>
+<edge source="Statue of James II, Trafalgar Square" target="Richard Coeur de Lion (statue)"/>
+<edge source="Statue of James II, Trafalgar Square" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Statue of James II, Trafalgar Square" target="Statue of George V, Westminster"/>
+<edge source="Statue of James II, Trafalgar Square" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Statue of James II, Trafalgar Square" target="Equestrian statue of the Duke of Cambridge"/>
+<edge source="Statue of James II, Trafalgar Square" target="Edith Cavell Memorial"/>
+<edge source="Statue of James II, Trafalgar Square" target="Statue of Charles II, Soho Square"/>
+<edge source="Statue of James II, Trafalgar Square" target="Statue of Joshua Reynolds"/>
+<edge source="Statue of James II, Trafalgar Square" target="Statue of Queen Anne, Queen Anne's Gate"/>
+<edge source="Statue of James II, Trafalgar Square" target="Statue of Edward Jenner, London"/>
+<edge source="Statue of Charles II, Soho Square" target="Diana Fountain, Bushy Park"/>
+<edge source="Statue of Charles II, Soho Square" target="Memorial to the Great Exhibition"/>
+<edge source="Statue of Charles II, Soho Square" target="Richard Coeur de Lion (statue)"/>
+<edge source="Statue of Charles II, Soho Square" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Statue of Charles II, Soho Square" target="Statue of George V, Westminster"/>
+<edge source="Statue of Charles II, Soho Square" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Statue of Charles II, Soho Square" target="Equestrian statue of the Duke of Cambridge"/>
+<edge source="Statue of Charles II, Soho Square" target="Statue of Robert Raikes, London"/>
+<edge source="Statue of Charles II, Soho Square" target="Elfin Oak"/>
+<edge source="Statue of Charles II, Soho Square" target="The Naked Ladies"/>
+<edge source="Statue of Charles II, Soho Square" target="Statue of Henry Bartle Frere"/>
+<edge source="Statue of Charles II, Soho Square" target="Statue of James Outram, London"/>
+<edge source="Statue of Charles II, Soho Square" target="Statue of Thomas Becket, London"/>
+<edge source="Statue of Charles II, Soho Square" target="Statue of Joshua Reynolds"/>
+<edge source="Statue of Charles II, Soho Square" target="Statue of Queen Anne, Queen Anne's Gate"/>
+<edge source="Statue of Charles II, Soho Square" target="Quintin and Alice Hogg Memorial"/>
+<edge source="Statue of Charles II, Soho Square" target="Whittington Stone"/>
+<edge source="Equestrian statue of the Duke of Cambridge" target="Richard Coeur de Lion (statue)"/>
+<edge source="Equestrian statue of the Duke of Cambridge" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Equestrian statue of the Duke of Cambridge" target="Statue of George V, Westminster"/>
+<edge source="Equestrian statue of the Duke of Cambridge" target="Statue of Henry Bartle Frere"/>
+<edge source="Equestrian statue of the Duke of Cambridge" target="Statue of Queen Anne, Queen Anne's Gate"/>
+<edge source="Equestrian statue of the Duke of Cambridge" target="Statue of Edward Jenner, London"/>
+<edge source="Memorial to the Great Exhibition" target="Diana Fountain, Bushy Park"/>
+<edge source="Memorial to the Great Exhibition" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="Memorial to the Great Exhibition" target="Richard Coeur de Lion (statue)"/>
+<edge source="Memorial to the Great Exhibition" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Memorial to the Great Exhibition" target="Statue of George V, Westminster"/>
+<edge source="Memorial to the Great Exhibition" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Memorial to the Great Exhibition" target="Statue of Robert Raikes, London"/>
+<edge source="Memorial to the Great Exhibition" target="Elfin Oak"/>
+<edge source="Memorial to the Great Exhibition" target="Edith Cavell Memorial"/>
+<edge source="Memorial to the Great Exhibition" target="John Heminges and Henry Condell Memorial"/>
+<edge source="Memorial to the Great Exhibition" target="Golden Boy of Pye Corner"/>
+<edge source="Memorial to the Great Exhibition" target="The Naked Ladies"/>
+<edge source="Memorial to the Great Exhibition" target="Statue of Joshua Reynolds"/>
+<edge source="Memorial to the Great Exhibition" target="Statue of Queen Anne, Queen Anne's Gate"/>
+<edge source="Memorial to the Great Exhibition" target="Statue of Edward Jenner, London"/>
+<edge source="Memorial to the Great Exhibition" target="Quintin and Alice Hogg Memorial"/>
+<edge source="Memorial to the Great Exhibition" target="Whittington Stone"/>
+<edge source="Memorial to the Great Exhibition" target="Equestrian statue of Ferdinand Foch, London"/>
+<edge source="Statue of Robert Raikes, London" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="Statue of Robert Raikes, London" target="Richard Coeur de Lion (statue)"/>
+<edge source="Statue of Robert Raikes, London" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Statue of Robert Raikes, London" target="Statue of George V, Westminster"/>
+<edge source="Statue of Robert Raikes, London" target="Debden House"/>
+<edge source="Statue of Robert Raikes, London" target="John Heminges and Henry Condell Memorial"/>
+<edge source="Statue of Robert Raikes, London" target="Statue of Henry Bartle Frere"/>
+<edge source="Statue of Robert Raikes, London" target="Statue of James Outram, London"/>
+<edge source="Statue of Robert Raikes, London" target="Statue of Joshua Reynolds"/>
+<edge source="Statue of Robert Raikes, London" target="Whittington Stone"/>
+<edge source="Statue of Robert Raikes, London" target="Equestrian statue of Ferdinand Foch, London"/>
+<edge source="Richard Coeur de Lion (statue)" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Richard Coeur de Lion (statue)" target="Statue of George V, Westminster"/>
+<edge source="Richard Coeur de Lion (statue)" target="Statue of Henry Bartle Frere"/>
+<edge source="Richard Coeur de Lion (statue)" target="Statue of James Outram, London"/>
+<edge source="Richard Coeur de Lion (statue)" target="Statue of Joshua Reynolds"/>
+<edge source="Richard Coeur de Lion (statue)" target="Statue of Queen Anne, Queen Anne's Gate"/>
+<edge source="Richard Coeur de Lion (statue)" target="Statue of Edward Jenner, London"/>
+<edge source="Edith Cavell Memorial" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="Edith Cavell Memorial" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Edith Cavell Memorial" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Edith Cavell Memorial" target="Statue of Joshua Reynolds"/>
+<edge source="Edith Cavell Memorial" target="Quintin and Alice Hogg Memorial"/>
+<edge source="Golden Boy of Pye Corner" target="Diana Fountain, Bushy Park"/>
+<edge source="Golden Boy of Pye Corner" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Golden Boy of Pye Corner" target="Elfin Oak"/>
+<edge source="Golden Boy of Pye Corner" target="Whittington Stone"/>
+<edge source="Statue of Queen Anne, Queen Anne's Gate" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="Statue of Queen Anne, Queen Anne's Gate" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Statue of Queen Anne, Queen Anne's Gate" target="Statue of George V, Westminster"/>
+<edge source="Statue of Queen Anne, Queen Anne's Gate" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Statue of Queen Anne, Queen Anne's Gate" target="Elfin Oak"/>
+<edge source="Statue of Queen Anne, Queen Anne's Gate" target="Statue of Thomas Becket, London"/>
+<edge source="Statue of Queen Anne, Queen Anne's Gate" target="Statue of Joshua Reynolds"/>
+<edge source="Statue of Queen Anne, Queen Anne's Gate" target="Statue of Edward Jenner, London"/>
+<edge source="Statue of Queen Anne, Queen Anne's Gate" target="Quintin and Alice Hogg Memorial"/>
+<edge source="Statue of Queen Anne, Queen Anne's Gate" target="Whittington Stone"/>
+<edge source="Statue of Thomas Becket, London" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Statue of Thomas Becket, London" target="John Heminges and Henry Condell Memorial"/>
+<edge source="Whittington Stone" target="Diana Fountain, Bushy Park"/>
+<edge source="Whittington Stone" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Whittington Stone" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Whittington Stone" target="Elfin Oak"/>
+<edge source="Whittington Stone" target="The Naked Ladies"/>
+<edge source="Whittington Stone" target="Statue of Joshua Reynolds"/>
+<edge source="Whittington Stone" target="Equestrian statue of Ferdinand Foch, London"/>
+<edge source="John Heminges and Henry Condell Memorial" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="John Heminges and Henry Condell Memorial" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="John Heminges and Henry Condell Memorial" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="John Heminges and Henry Condell Memorial" target="Statue of Henry Bartle Frere"/>
+<edge source="John Heminges and Henry Condell Memorial" target="Statue of James Outram, London"/>
+<edge source="John Heminges and Henry Condell Memorial" target="Statue of Edward Jenner, London"/>
+<edge source="John Heminges and Henry Condell Memorial" target="Quintin and Alice Hogg Memorial"/>
+<edge source="John Heminges and Henry Condell Memorial" target="Equestrian statue of Ferdinand Foch, London"/>
+<edge source="Statue of Henry Bartle Frere" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="Statue of Henry Bartle Frere" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Statue of Henry Bartle Frere" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Statue of Henry Bartle Frere" target="Statue of James Outram, London"/>
+<edge source="Statue of Henry Bartle Frere" target="Statue of Joshua Reynolds"/>
+<edge source="Statue of Henry Bartle Frere" target="Statue of Edward Jenner, London"/>
+<edge source="Statue of Henry Bartle Frere" target="Quintin and Alice Hogg Memorial"/>
+<edge source="Diana Fountain, Bushy Park" target="Statue of George V, Westminster"/>
+<edge source="Diana Fountain, Bushy Park" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Diana Fountain, Bushy Park" target="Elfin Oak"/>
+<edge source="Diana Fountain, Bushy Park" target="Quintin and Alice Hogg Memorial"/>
+<edge source="Equestrian statue of Ferdinand Foch, London" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Statue of James Outram, London" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="Statue of James Outram, London" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Statue of James Outram, London" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Statue of James Outram, London" target="Statue of Joshua Reynolds"/>
+<edge source="Statue of James Outram, London" target="Statue of Edward Jenner, London"/>
+<edge source="Statue of James Outram, London" target="Quintin and Alice Hogg Memorial"/>
+<edge source="Statue of Joshua Reynolds" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="Statue of Joshua Reynolds" target="Statue of Oliver Cromwell, Westminster"/>
+<edge source="Statue of Joshua Reynolds" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Statue of Joshua Reynolds" target="The Naked Ladies"/>
+<edge source="Statue of Joshua Reynolds" target="Statue of Edward Jenner, London"/>
+<edge source="Statue of Joshua Reynolds" target="Quintin and Alice Hogg Memorial"/>
+<edge source="Statue of Oliver Cromwell, Westminster" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="Statue of Oliver Cromwell, Westminster" target="Statue of George V, Westminster"/>
+<edge source="Statue of Oliver Cromwell, Westminster" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Statue of Oliver Cromwell, Westminster" target="Elfin Oak"/>
+<edge source="Statue of Oliver Cromwell, Westminster" target="The Naked Ladies"/>
+<edge source="Statue of Oliver Cromwell, Westminster" target="Statue of Edward Jenner, London"/>
+<edge source="Statue of Oliver Cromwell, Westminster" target="Quintin and Alice Hogg Memorial"/>
+<edge source="Statue of Edward Jenner, London" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="Statue of Edward Jenner, London" target="Statue of George V, Westminster"/>
+<edge source="Statue of Edward Jenner, London" target="Statue of Hugh Myddelton, Islington Green"/>
+<edge source="Statue of Edward Jenner, London" target="The Naked Ladies"/>
+<edge source="Statue of Hugh Myddelton, Islington Green" target="Statue of the Duke of Devonshire, Whitehall"/>
+<edge source="Statue of Hugh Myddelton, Islington Green" target="Statue of George V, Westminster"/>
+<edge source="Statue of Hugh Myddelton, Islington Green" target="The Naked Ladies"/>
+<edge source="Statue of Hugh Myddelton, Islington Green" target="Quintin and Alice Hogg Memorial"/>
+<edge source="Statue of the Duke of Devonshire, Whitehall" target="The Naked Ladies"/>
+<edge source="Statue of George V, Westminster" target="Quintin and Alice Hogg Memorial"/>
+<edge source="Quintin and Alice Hogg Memorial" target="The Naked Ladies"/>
+<edge source="The Naked Ladies" target="Elfin Oak"/>
+</graph></graphml>
