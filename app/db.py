@@ -144,7 +144,8 @@ def get_similar_structural(place_id: str, *, same_city: bool = True) -> List[Dic
         SELECT sp.similar_place_id AS id,
                p.name,
                sp.sim_score,
-               p.city_id
+               p.city_id,
+               p.image
         FROM similar_places sp
         JOIN place p ON p.id = sp.similar_place_id
         WHERE sp.main_place_id = :pid
@@ -162,7 +163,7 @@ def get_similar_image(
     k_neighbors: int = 6,
     k_for_features: int = 3,
 ) -> List[Dict]:
-    # 1) grab every place’s id, name, city, and dominant-colors
+    #  id, name, city, and dominant-colors
     sql_all = """
         SELECT p.id,
                p.name,
@@ -176,11 +177,11 @@ def get_similar_image(
     if all_places.empty:
         return []
 
-    # 2) build 6D feature vectors
+    #6D feature vectors
     feat_df = _build_feature_df(all_places, k_for_features)
     if place_id not in set(feat_df["id"]):
         return []
-    # grab the city of the target so we can filter later
+    # city of target
     orig_city = int(feat_df.loc[feat_df["id"] == place_id, "city_id"].iloc[0])
 
     # 3) run KNN *globally* (n_neighbors = all other points)
@@ -191,14 +192,13 @@ def get_similar_image(
     tgt_idx = idx_map[place_id]
     dists, inds = knn.kneighbors(X[tgt_idx].reshape(1, -1))
 
-    # 4) flatten and exclude the target itself
     all_nbr_ids = [
         feat_df.iloc[i]["id"]
         for i in inds.flatten()
         if feat_df.iloc[i]["id"] != place_id
     ]
 
-    # 5) filter by same_city flag
+
     filtered = []
     for nid in all_nbr_ids:
         city_id = int(feat_df.loc[feat_df["id"] == nid, "city_id"].iloc[0])
@@ -214,7 +214,7 @@ def get_similar_image(
     if not filtered:
         return []
 
-    # 6) fetch the image bytes + dom_colors for those filtered IDs
+    #image + dom_colors for those filtered IDs
     sql_details = """
         SELECT p.id,
                p.name,

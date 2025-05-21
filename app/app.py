@@ -3,7 +3,7 @@ from typing import Dict
 
 import streamlit as st
 from PIL import Image
-
+import web_helpers
 import db
 
 st.set_page_config(page_title="POI Explorer", layout="wide", page_icon="🏙️")
@@ -84,6 +84,11 @@ def view_cities():
             st.divider()
 
 def view_places():
+    st.markdown("___")
+    if st.button("← Back to cities"):
+        st.session_state.view = "cities"
+        _rerun()
+
     city_id = st.session_state.city_id
     city_name = next(c["name"] for c in db.get_cities() if c["id"] == city_id)
     st.title(f"📍 Places in {city_name}")
@@ -99,6 +104,7 @@ def view_places():
             with cols[1]:
                 st.markdown(f"#### {p['name']}")
                 st.caption(f"Description: {p.get('description', '')[:100]}{'...' if len(p.get('description',''))>100 else ''}")
+
                 if p.get("score") is not None:
                     st.markdown(f"⭐ **Interest Score:** `{p['score']:.4f}`")
             with cols[2]:
@@ -108,10 +114,7 @@ def view_places():
                     _rerun()
             st.divider()
 
-    st.markdown("___")
-    if st.button("← Back to cities"):
-        st.session_state.view = "cities"
-        _rerun()
+
 
 def view_place():
     p = db.get_place(st.session_state.place_id)
@@ -128,7 +131,9 @@ def view_place():
         st.markdown(f"**City:** {p['city_name']}")
         if p.get("location_url"):
             st.markdown(f"[📍 Location link]({p['location_url']})")
-        st.write(p.get("description", ""))
+        #st.write(p.get("description", ""))
+        new_txt = web_helpers.get_markdown(p.get('description', ''))
+        st.markdown(new_txt)
         st.markdown("___")
 
 
