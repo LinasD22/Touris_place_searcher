@@ -94,5 +94,3 @@ This project demonstrates collecting data from public APIs, storing it in
 presents the results in an accessible way for exploring tourist destinations.
 
 
->>>>>>> main
-
