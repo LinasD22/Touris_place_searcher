@@ -1,4 +1,4 @@
-<<<<<<< 64d8p5-codex/create-readme-file
+
 # Tourist Place Searcher
 
 **Tourist Place Searcher** is a Streamlit application for browsing points of
@@ -89,7 +89,3 @@ allow returning to the places list or city list.
 This project demonstrates collecting data from public APIs, storing it in
 PostgreSQL and analysing it with K‑Means, KNN and PageRank. The Streamlit UI
 presents the results in an accessible way for exploring tourist destinations.
-=======
-
->>>>>>> main
-
