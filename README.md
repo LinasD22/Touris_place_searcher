@@ -25,6 +25,7 @@ Each place contains the following fields:
 - `city_id`
 - `city_name`
 - `categories` and `category_id`
+
   ![image](https://github.com/user-attachments/assets/df7f191b-63e1-4f06-b4d9-d469c62797c2)
 
 
@@ -89,7 +90,7 @@ allow returning to the places list or city list.
 ## Conclusion
 
 This project demonstrates collecting data from public APIs, storing it in
-PostgreSQL and analysing it with K‑Means, KNN and PageRank. The Streamlit UI
+**PostgreSQL and analysing it with K‑Means, KNN and PageRank **. The Streamlit UI
 presents the results in an accessible way for exploring tourist destinations.
 
 
