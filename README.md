@@ -1,4 +1,4 @@
-<<<<<<< 64d8p5-codex/create-readme-file
+
 # Tourist Place Searcher
 
 **Tourist Place Searcher** is a Streamlit application for browsing points of
@@ -25,6 +25,8 @@ Each place contains the following fields:
 - `city_id`
 - `city_name`
 - `categories` and `category_id`
+  ![image](https://github.com/user-attachments/assets/df7f191b-63e1-4f06-b4d9-d469c62797c2)
+
 
 After cleaning about 310 unique entries remain.
 
@@ -89,7 +91,7 @@ allow returning to the places list or city list.
 This project demonstrates collecting data from public APIs, storing it in
 PostgreSQL and analysing it with K‑Means, KNN and PageRank. The Streamlit UI
 presents the results in an accessible way for exploring tourist destinations.
-=======
+
 
 >>>>>>> main
 
