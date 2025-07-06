@@ -1,3 +1,4 @@
+
 # Tourist Place Searcher
 
 **Tourist Place Searcher** is a Streamlit application for browsing points of
