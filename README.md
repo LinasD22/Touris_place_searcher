@@ -90,7 +90,7 @@ allow returning to the places list or city list.
 ## Conclusion
 
 This project demonstrates collecting data from public APIs, storing it in
-**PostgreSQL and analysing it with K‑Means, KNN and PageRank **. The Streamlit UI
+**PostgreSQL and analysing it with K‑Means, KNN and PageRank**. The Streamlit UI
 presents the results in an accessible way for exploring tourist destinations.
 
 
