@@ -1,35 +1,90 @@
 # Tourist Place Searcher
 
-This repository contains a small Streamlit application for exploring places of interest stored in a PostgreSQL database.  The app allows selecting a city, browsing its places, and viewing additional information such as similar locations based on image or structural properties.
+**Tourist Place Searcher** is a Streamlit application for browsing points of
+interest collected from OpenStreetMap and Wikipedia. Data are stored in
+PostgreSQL and enriched with dominant colour information, PageRank scores and
+similarity metrics.
 
-## Contents
+## Introduction
 
-- `app/app.py` – main Streamlit interface.
-- `app/db.py` – helper functions for database access and similarity queries.
-- `app/processing_no_MPI.py` and `app/MPI_processing.py` – scripts for computing dominant colours, similarity measures and page‑rank scores. The MPI variant can distribute processing across workers.
-- `app/graph.py` – tools for building and exporting graphs of similar places.
-- `app/data/` – sample processed data (subgraphs, pickle files and more).
+The project gathers polygons for several cities (Paris, London, Vilnius and
+Chicago) and extracts up to eighty tourist locations per city. Raw records are
+cleaned to remove duplicates and nulls before being saved to a processed
+`Places_processed` database.
 
-## Setup
+## Dataset
 
-1. Install Python packages.  Typical requirements include `streamlit`, `sqlalchemy`, `pandas`, `numpy`, `scikit-learn`, `networkx`, `Pillow` and `dotenv`.  Use `pip` to install them:
-   ```bash
-   pip install streamlit sqlalchemy pandas numpy scikit-learn networkx Pillow python-dotenv
-   ```
-2. Provide database credentials through environment variables or an `.env` file with the following keys:
-   `PGUSER`, `PGPASSWORD`, `PGHOST`, `PGPORT`, `PGDATABASE`, `PGDATABASE2`.
+Each place contains the following fields:
 
-## Running the App
+- `location_name`
+- `location_id`
+- `location_description`
+- `location_url`
+- `location_image`
+- `city_id`
+- `city_name`
+- `categories` and `category_id`
 
-Once dependencies and environment variables are ready, launch the application with:
-
-```bash
-streamlit run app/app.py
-```
-
-This opens a local web page where you can navigate through the available cities and places.  Selecting a place displays its information, image, dominant colour palette and lists of similar points of interest.
+After cleaning about 310 unique entries remain.
 
 ## Data Processing
 
-The processing scripts load raw records, compute dominant colours for images, build similarity tables and PageRank scores, and then write the results to another database.  Run `processing_no_MPI.py` for a single‑process workflow or `MPI_processing.py` with `mpiexec` for distributed execution.
+Processing scripts compute dominant colours for images using K‑Means and build
+lists of visually similar places with k‑Nearest Neighbours. PageRank is
+calculated on a graph of wiki links to rank places by importance. Results are
+written back to the database.
 
+## Project Structure
+
+- `app/app.py` – Streamlit web interface
+- `app/db.py` – database helpers
+- `app/processing_no_MPI.py` / `app/MPI_processing.py` – data preparation
+- `app/graph.py` – tools for graph export
+- `app/data/` – example processed data
+
+## Installation
+
+Install required Python packages (`streamlit`, `sqlalchemy`, `pandas`,
+`scikit-learn`, `networkx`, `Pillow`, `python-dotenv`, …) and ensure PostgreSQL
+is available. Create an `.env` file with
+
+```
+PGUSER=your_db_user
+PGPASSWORD=your_password
+PGHOST=localhost
+PGPORT=5432
+PGDATABASE=your_db_name
+PGDATABASE2=your_processed_db_name
+```
+
+### Windows
+
+```
+git clone https://github.com/LinasD22/Touris_place_searcher
+psql -U your_db_user -d your_db_name -f database_dump.sql
+streamlit run app/app.py
+```
+
+### Linux / macOS
+
+```
+git clone https://github.com/LinasD22/Touris_place_searcher
+psql -U your_db_user -d your_db_name -f database_dump.sql
+streamlit run app/app.py
+```
+
+SQL dumps for populating the database are available at
+<https://drive.google.com/drive/folders/1W79S9tWe2Jle9QRrddqvCxv11sCRJzRd?usp=sharing>.
+
+## User Interface
+
+Starting the app shows the four cities. **View places** displays locations
+ranked by PageRank. **View details** reveals a place description, dominant
+colour palette and similar locations by image or category. Navigation buttons
+allow returning to the places list or city list.
+
+## Conclusion
+
+This project demonstrates collecting data from public APIs, storing it in
+PostgreSQL and analysing it with K‑Means, KNN and PageRank. The Streamlit UI
+presents the results in an accessible way for exploring tourist destinations.
