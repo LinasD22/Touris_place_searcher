@@ -1,5 +1,7 @@
 
-# Tourist Place Searcher
+# Tourist Place Searcher   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/5ce27ea7-30d1-408f-8c1a-408ce2f9806b" />
+
+
 
 **Tourist Place Searcher** is a Streamlit application for browsing points of
 interest collected from OpenStreetMap and Wikipedia. Data are stored in
@@ -8,12 +10,15 @@ similarity metrics.
 
 ## Introduction
 
-The project gathers polygons for several cities (Paris, London, Vilnius and
-Chicago) and extracts up to eighty tourist locations per city. Raw records are
+The project gathers polygons for several cities (**Paris, London, Vilnius and
+Chicago**) and extracts up to eighty tourist locations per city. Raw records are
 cleaned to remove duplicates and nulls before being saved to a processed
 `Places_processed` database.
 
-## Dataset
+## Dataset  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/48290199-35db-4f86-ac09-54dd45dd936f" />
+
+
+
 
 Each place contains the following fields:
 
