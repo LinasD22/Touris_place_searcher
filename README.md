@@ -31,8 +31,7 @@ Each place contains the following fields:
 - `city_name`
 - `categories` and `category_id`
 
-  ![image](https://github.com/user-attachments/assets/df7f191b-63e1-4f06-b4d9-d469c62797c2)
-
+<img width="669" height="364" alt="image" src="https://github.com/user-attachments/assets/a41d33ec-8fa1-4729-b919-5b03d74599ff" />
 
 
 
