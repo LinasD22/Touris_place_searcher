@@ -34,14 +34,14 @@ Each place contains the following fields:
   ![image](https://github.com/user-attachments/assets/df7f191b-63e1-4f06-b4d9-d469c62797c2)
 
 
-After cleaning about 310 unique entries remain.
+
 
 ## Data Processing
 
 Processing scripts compute dominant colours for images using K‑Means and build
 lists of visually similar places with k‑Nearest Neighbours. PageRank is
 calculated on a graph of wiki links to rank places by importance. Results are
-written back to the database.
+written back to the database. After cleaning about 310 unique entries remain.
 
 ## Project Structure
 
